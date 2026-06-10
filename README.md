@@ -101,7 +101,8 @@ Ports:   Do NOT expose OpenClaw Gateway publicly — bind to localhost only
 - **[r/openclaw](https://reddit.com/r/openclaw)** — Main community subreddit. Best place for troubleshooting, showcase posts, and discussion of new versions.
 - **[r/selfhosted](https://reddit.com/r/selfhosted)** — Broader self-hosting community. Frequent OpenClaw threads, especially around VPS setup and Docker configs.
 - **[OpenClaw GitHub Discussions](https://github.com/openclaw/openclaw/discussions)** — Official upstream discussions. Good for tracking roadmap and version-specific issues.
-- **[PaioClaw Discord](https://discord.gg/paioclaw)** — 1,000+ members. Active community around managed OpenClaw hosting, skill setups, and automation workflows.
+- **[PaioClaw Discord](https://discord.gg/vMzstPBZRq)** — 1,000+ members. Active community around managed OpenClaw hosting, skill setups, and automation workflows.
+- **[OpenClaw Twitter](https://x.com/i/communities/2034249873869222335)** —  Active community around managed OpenClaw hosting, skill setups, and automation workflows.
 
 ---
 
